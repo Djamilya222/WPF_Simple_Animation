@@ -22,6 +22,7 @@ namespace WPF_Simple_Animation
     /// </summary>
     public partial class MainWindow : Window
     {
+        //конструктор
         public MainWindow()
         {
             InitializeComponent();
