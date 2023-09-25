@@ -27,7 +27,7 @@ namespace WPF_Simple_Animation
         {
             InitializeComponent();
         }
-        int count = 0;
+        
         DoubleAnimation dx;
         DoubleAnimation dy;
         DoubleAnimation dw;
