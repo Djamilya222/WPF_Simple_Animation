@@ -163,7 +163,7 @@
                 <SolidColorBrush x:Name="br" Color="Red" />
             </Border.BorderBrush>
 
-            <Button Name="button2" Click="button2_Click" MouseEnter="button2_MouseEnter" MouseLeave="button2_MouseLeave" Content="Button" RenderTransformOrigin="0.5, 0.5"/>
+            <Button Name="button2" Click="button2_Click" MouseEnter="button22_MouseEnter" MouseLeave="button2_MouseLeave" Content="Button" RenderTransformOrigin="0.5, 0.5"/>
         </Border>
 
         <Border RenderTransformOrigin="0.5, 0.5" BorderThickness="5" Height="100" Canvas.Left="331" Canvas.Top="299" Width="100">

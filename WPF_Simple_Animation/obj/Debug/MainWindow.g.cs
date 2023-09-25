@@ -268,7 +268,7 @@ namespace WPF_Simple_Animation {
             #line hidden
             
             #line 166 "..\..\MainWindow.xaml"
-            this.button2.MouseEnter += new System.Windows.Input.MouseEventHandler(this.button2_MouseEnter);
+            this.button2.MouseEnter += new System.Windows.Input.MouseEventHandler(this.button22_MouseEnter);
             
             #line default
             #line hidden

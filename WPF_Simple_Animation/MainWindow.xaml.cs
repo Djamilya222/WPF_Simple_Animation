@@ -69,7 +69,7 @@ namespace WPF_Simple_Animation
             MessageBox.Show("Animation completed!");
         }
 
-        private void button2_MouseEnter(object sender, MouseEventArgs e)
+        private void button22_MouseEnter(object sender, MouseEventArgs e)
         {
             // Анимация цвета бордюра
             ColorAnimation colorAnimation = new ColorAnimation(Colors.Red, Colors.Green, TimeSpan.FromMilliseconds(100));
